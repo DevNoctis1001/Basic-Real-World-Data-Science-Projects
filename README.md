@@ -267,8 +267,4 @@ Completed Staff Work, similar to data analysis, empowers decision makers to iden
   9. Algorithm Tuning
   10. Bagging or Boosting  
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)
-  
-# Author:
-## Tin Hang
 
